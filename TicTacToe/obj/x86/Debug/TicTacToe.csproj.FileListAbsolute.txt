@@ -17,3 +17,5 @@ E:\Andrew Werner\Documents\ITE\C# WG\Andrew Werner\TicTacToe\TicTacToe\obj\x86\D
 E:\Andrew Werner\Documents\ITE\C# WG\Andrew Werner\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.pdb
 C:\Users\Andrew Werner\Desktop\Andrew Werner\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.exe
 C:\Users\Andrew Werner\Desktop\Andrew Werner\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.pdb
+E:\Andrew Werner\Documents\GitHub\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.exe
+E:\Andrew Werner\Documents\GitHub\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.pdb
