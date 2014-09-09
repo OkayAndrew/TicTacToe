@@ -1,0 +1,19 @@
+E:\Andrew Werner\Code\C#\TicTacToe\TicTacToe\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Andrew Werner\Code\C#\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.mainForm.resources
+E:\Andrew Werner\Code\C#\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.Properties.Resources.resources
+E:\Andrew Werner\Code\C#\TicTacToe\TicTacToe\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Andrew Werner\Code\C#\TicTacToe\TicTacToe\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Andrew Werner\Code\C#\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+E:\Andrew Werner\Code\C#\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+E:\Andrew Werner\Code\C#\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.exe
+E:\Andrew Werner\Code\C#\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.pdb
+E:\Andrew Werner\Code\C#\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.splashForm.resources
+E:\Andrew Werner\Code\C#\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.manifest
+E:\Andrew Werner\Code\C#\TicTacToe\TicTacToe\bin\Debug\TicTacToe.application
+E:\Andrew Werner\Code\C#\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.TrustInfo.xml
+E:\Andrew Werner\Code\C#\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.exe.manifest
+E:\Andrew Werner\Code\C#\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.application
+E:\Andrew Werner\Documents\ITE\C# WG\Andrew Werner\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.exe
+E:\Andrew Werner\Documents\ITE\C# WG\Andrew Werner\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.pdb
+C:\Users\Andrew Werner\Desktop\Andrew Werner\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.exe
+C:\Users\Andrew Werner\Desktop\Andrew Werner\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.pdb
